@@ -2,18 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+the task was to create a program which displays a beautiful square.
+my square 5,3 should display
 
 ## Description
-TODO - How have you solved the problem?
+I did a lot of consultation with my peers and also google 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
-
+There was no installation required for this program as it is a simple program 
 ## Usage
-TODO - How does it work?
+It is used to create diffrent forms of box dessigns 
 ```
-./my_project argument1 argument2
+It can also be used to create any forms of beautiful squares suchas cube and others 
 ```
 
 ### The Core Team
